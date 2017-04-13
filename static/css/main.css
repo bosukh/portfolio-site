@@ -1,6 +1,7 @@
 html {
   color:#2d3c49;
 }
+
 a {
   text-decoration: none;
   color: inherit;
@@ -79,19 +80,24 @@ a {
     max-width: 90px;
     max-height: 90px;
   }
+
   .middle-panel {
     display:block;
   }
+
   .featured-work-header {
     font-size: 30px;
     text-align: left;
   }
-  .project-link{
+
+  .project-link {
     font-size: 10px;
   }
+
   .author-name-header {
     font-size: 45px;
   }
+
   .author-headline {
     font-size: 20px;
   }
@@ -101,9 +107,11 @@ a {
   .featured-work-header {
     font-size: 35px;
   }
-  .project-link{
+
+  .project-link {
     font-size: 14px;
   }
+  
   .project-header {
     font-size: 30px;
   }
